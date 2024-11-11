@@ -2,6 +2,17 @@
   "name": "shadhis",
   "version": "0.1.0",
   "private": true,
+  "author": "Dhisa Production",
+  "description": "ShaDhis is a website for finding many components for your project building with shadcn/ui",
+  "keywords": [
+    "shadcn",
+    "ui",
+    "components",
+    "tailwindcss",
+    "react",
+    "nextjs"
+  ],
+  "license": "MIT",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
